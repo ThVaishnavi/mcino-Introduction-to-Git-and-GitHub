@@ -1,0 +1,8 @@
+Command: git branch -avv
+* bug-fix-revert                3b3cd27 [origin/bug-fix-revert] Add pull request verification evidence
+  bug-fix-typo                  759c58c [origin/bug-fix-typo] Fix typo in README
+  main                          f60ce7b [origin/main] Add merge branches evidence
+  remotes/origin/HEAD           -> origin/main
+  remotes/origin/bug-fix-revert 3b3cd27 Add pull request verification evidence
+  remotes/origin/bug-fix-typo   759c58c Fix typo in README
+  remotes/origin/main           f60ce7b Add merge branches evidence
